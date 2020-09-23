@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: sd3;
+	src: url(../font/SCDREAM3.OTF);
+}
+@font-face {
+	font-family: sd5;
+	src: url(../font/SCDREAM5.OTF);
+}
+@font-face {
+	font-family: sd7;
+	src: url(../font/SCDREAM7.OTF);
+}
+@font-face {
+	font-family: sd9;
+	src: url(../font/SCDREAM9.OTF);
+}
+
+.joinClick {
+	font-family: sd3;
+}
+.joinClick a {
+	font-family: sd5;
+	font-size: 12pt;
+	text-decoration: none;
+	color: #febf63;
+}
+
+.loginArea {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+.loginInput {
+	font-family: sd3;
+	font-size: 12pt;
+	width: 250px;
+	height: 30px;
+	background-color: transparent;
+	border-radius: 5px;
+}
+.loginBtn {
+	font-family: sd5;
+	font-size: 12pt;
+	color: white;
+	width: 250px;
+	height: 40px;
+	background-color: #febf63;
+	margin-top: 30px;
+	border: none;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+#memberArea {
+	
+	width: 400px;
+	height: 600px;
+	padding: 30px 30px;
+	
+}
+
+.joinBtn {
+	width: 260px;
+	height: 36px;
+	background-color: #ede682;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding-top: 8px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.joinBtn a {
+	font-family: sd3;
+	font-size: 14pt;
+	text-decoration: none;
+	color: black;
+	
+}
+
+.joinInput {
+	font-family: sd3;
+	font-size: 11pt;
+	width: 300px;
+	height: 30px;
+	padding-left: 15px;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.joinInputAddr1{
+	font-family: sd3;
+	font-size: 11pt;
+	width: 220px;
+	height: 30px;
+	padding-left: 15px;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-bottom: 3px;
+}
+
+.joinInputAddr2 {
+	font-family: sd3;
+	font-size: 11pt;
+	width: 300px;
+	height: 30px;
+	padding-left: 15px;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.joinInputAddr3 {
+	font-family: sd3;
+	font-size: 11pt;
+	width: 300px;
+	height: 30px;
+	padding-left: 15px;
+	background-color: transparent;
+	border-radius: 5px;
+	margin-top: 3px;
+	margin-bottom: 20px;
+}
+
+.addrBtn {
+	font-family: sd3;
+	font-size: 11pt;
+	margin-left: 8px;
+	cursor: pointer;
+}
+
+
+
+
