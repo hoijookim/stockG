@@ -14,7 +14,7 @@ create table stockprice(
 	sp_amount varchar2(20 char) not null
 );
 
-select * from s_005930;
+select * from s_005930 order by s_date;
 
 create table s_gallery_member(
 	sg_email varchar2(40 char) primary key,
